@@ -11,8 +11,8 @@ This project implements an online document editor that allows real-time collabor
 
 ## Prerequisites
 
-- Node.js (version X.X.X)
-- npm (version X.X.X)
+- Node.js
+- npm
 
 ## Installation
 
